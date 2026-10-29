@@ -13,7 +13,7 @@ English | [简体中文](https://github.com/jiangtian616/JHenTai/blob/master/REA
 
 ## Description
 
-A manga app for E-Hentai, supporting Android & iOS & Windows & MacOS & Linux.
+A manga app for Android & iOS & Windows & MacOS & Linux.
 
 Still in development stage, welcome to submit isLsues or feature requests.
 
