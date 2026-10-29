@@ -6,7 +6,6 @@
 [![issue](https://img.shields.io/badge/chat-issue-brightgreen)](https://github.com/jiangtian616/JHenTai/issues/new)
 [![telegram](https://img.shields.io/badge/chat-telegram(Chinese_Mainly)-brightgreen)](https://t.me/+PindoE9yvIpmOWI9)
 
-# JHenTai
 
 English | [简体中文](https://github.com/jiangtian616/JHenTai/blob/master/README_cn.md) | [한국어](https://github.com/jiangtian616/JHenTai/blob/master/README_kr.md)
 
@@ -16,7 +15,7 @@ English | [简体中文](https://github.com/jiangtian616/JHenTai/blob/master/REA
 
 A manga app for E-Hentai, supporting Android & iOS & Windows & MacOS & Linux.
 
-Still in development stage, welcome to submit issues or feature requests.
+Still in development stage, welcome to submit isLsues or feature requests.
 
 ## Download & Install
 
